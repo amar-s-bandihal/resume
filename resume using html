@@ -1,0 +1,121 @@
+<html>
+  <head>
+    <title>
+      RESUME
+    </title>
+  </head>
+  <body>
+    <table border=3 bordercolor=brown>
+      <tr valign = top>
+        <th height = "1000" width="350" align="left" style="font-size:16px;" bgcolor="#FAF9EC">
+<div style="background-color:4B371c"><center><img src = E:/resume/IMG_20201125_214800.jpg width=300 height=200 border=3></center><hr></div>
+
+<div >
+<p align = "left">
+<pre>
+<center><b><big>CONTACT</big></b></center>
+
+<i>Phone</i>:-+91 9620752339
+<i>E-mail</i>:-amarsbandihal@gmail.com
+<i>Address</i>:-Chamarajpet,banglore-560018
+                Karnataka
+<i>Github</i>:-<a href="https://github.com/amar-s-bandihal" style="color:black">github.com/amar-s-bandihal</a>
+<i>Linkedin</i>:-<a href="https://www.linkedin.com/in/amar-s-bandihal-b48938211/" style="color:black">linkedin.com/amar-s-bandihal</a>
+</pre></p>
+</div>
+<div >
+<hr color="black">
+<p align = "left">
+<pre>
+<center><b><big>SKILLS</big></b></center>
+
+<big>.</big>Coding:-C,Java,Flutter
+<big>.</big>Database:-Mysql
+<big>.</big>Technologies:-IOT
+</pre></p>
+</div>
+
+<div >
+<hr color="black">
+<p align = "left">
+<pre>
+<center><b><big>Personal Qualities</big></b></center>
+
+<big>.</big>Communication
+<big>.</big>Leadrship
+<big>.</big>Creativity
+</pre></p>
+</div>
+
+<div >
+<hr color="black">
+<p align = "left">
+<pre>
+<center><b><big>Languages Known</big></b></center>
+
+<big>.</big>English
+<big>.</big>Kannada
+<big>.</big>Hindi
+</pre></p>
+</div>
+
+
+<div >
+<hr color="black">
+<p align = "left">
+<pre>
+<center><b><big>Intrests</big></b></center>
+
+<big>.</big>Drawing
+<big>.</big>Kho-Kho
+<big>.</big>Cricket
+</pre></p>
+</div>
+</th>
+<th height = "1000" width="650">
+<div align = "left"><h1><b><big>Amar S Bandihal</big><b></h1><hr color="black"></div>
+<div align = "left"><h2><b><big>Computer science and engineering</big><b></h2></div>
+<pre>
+<p Style="font-size:22px">PERSONAL INFO</p>
+<div Style="font-size:16px" align = "left">Self-motivated Engineer looking for an opportunity to
+work in a challenging environment to prove my skills
+and utilize my knowledge & intelligence in the growth of
+the organization.</div>
+<hr color="black">
+</pre>
+<pre>
+<p Style="font-size:22px" >EDUCATION</p>
+<div Style="font-size:16px" align = "left"><big>.</big>10th - S.F.S High School, Koppal
+  Percentage - 87.4%  Board - State
+<big>.</big>2nd PUC - Surabhi PU College(DEEKSHA), Hospet
+  Percentage - 81%    Board - State
+<big>.</big>Graduation - Presidency University,Bangalore
+  Currently Pursuing CGPA - 8.77
+</div>
+<hr color="black">
+</pre>
+<pre
+<p Style="font-size:22px">PROJECTS</p>
+<div Style="font-size:16px" align = "left"><big>.</big>Smart village
+-- An IOT project built using Arduino,bluetooth
+   modulo,ultrasonic sensor and IDE software.
+   based on smart parking garage using bluetooth. by
+   pressing on button the lights of the garage gets on and as
+   the vehicle comes slowly near to the wall. it warns the
+   driver by red light and the fast beep sounds.
+   <a href ="https://github.com/amar-s-bandihal/Smart-village">https://github.com/amar-s-bandihal/Smart-village</a>
+</div>
+<hr color="black">
+</pre>
+<pre>
+<p Style="font-size:22px">CERTIFICATES</p>
+<div Style="font-size:16px" align = "left"><big>.</big>Introduction to cybersecurity
+   Certified by NASSCOM
+<big>.</big>AWS Cloud Masterclass - Cloud Practitioner Essentials
+   Certified by NASSCOM
+</div>
+</pre>
+</body>
+<html>
+
+
